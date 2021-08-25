@@ -1,2 +1,2 @@
 # awesome-phone-book
-An awesome phone book  App. Built with React Hooks
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using React Hooks
