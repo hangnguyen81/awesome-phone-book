@@ -2,7 +2,7 @@
   "name": "phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hangnguyen81.github.io/awesome-phone-book",
+  "homepage": "https://awesome-phonebook.netlify.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
