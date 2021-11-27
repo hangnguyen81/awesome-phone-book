@@ -1,5 +1,5 @@
 # awesome-phone-book
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using React hooks, axios and json-server!  
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Built with React Hooks, axios, Nodejs, Express and deploy to Heroku
 
 This app is based on an required exercise in Full Stack Open course and I got inspiration for interface of the App from this article [Crafting React with love](https://dev.solita.fi/2016/07/20/crafting-react-with-love.html)
 
